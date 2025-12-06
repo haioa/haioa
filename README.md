@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on **开源的前端工具**、**实用的小型 Web 或 Hybrid 应用**（比如在线考勤系统或双人小游戏），欢迎任何有趣的合作机会！
 
 - 📫 How to reach me: 
-    * 📧 Email: `your-email-address@example.com` (请替换为您的真实邮箱)
+    * 📧 Email: `haioa@qq.com` (请替换为您的真实邮箱)
     * 🔗 LinkedIn/Portfolio: [Your Profile Link Here] (请替换为您的作品集或领英链接)
 
 ---
